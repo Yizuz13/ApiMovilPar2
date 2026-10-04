@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#1E293B</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="color_accent">#2563EB</color>
+
+    <!-- Secondary & Backgrounds -->
+    <color name="secondary">#3B82F6</color>
+    <color name="secondary_light">#EFF6FF</color>
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- Category Badge Colors -->
+    <color name="badge_bg">#E0E7FF</color>
+    <color name="badge_text">#3730A3</color>
+
+    <!-- Stock Status Colors -->
+    <color name="stock_high">#16A34A</color>
+    <color name="stock_low">#D97706</color>
+    <color name="stock_out">#DC2626</color>
+
+    <!-- Action Buttons -->
+    <color name="edit_btn">#2563EB</color>
+    <color name="delete_btn">#DC2626</color>
+</resources>

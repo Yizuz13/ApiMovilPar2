@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tech Inventory</string>
+    <string name="title_inventory">Inventario de Tecnología</string>
+
+    <!-- Search & Filter -->
+    <string name="hint_search">Buscar producto por nombre...</string>
+    <string name="filter_all">Todas las categorías</string>
+
+    <!-- Form Strings -->
+    <string name="title_add_product">Agregar Nuevo Producto</string>
+    <string name="title_edit_product">Editar Producto</string>
+    <string name="hint_product_name">Nombre del Producto</string>
+    <string name="hint_product_category">Categoría</string>
+    <string name="hint_product_price">Precio ($)</string>
+    <string name="hint_product_stock">Stock (Unidades)</string>
+
+    <!-- Dialog Actions -->
+    <string name="action_save">Guardar</string>
+    <string name="action_update">Actualizar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_delete">Eliminar</string>
+
+    <!-- Confirmation Dialog -->
+    <string name="title_delete_confirm">Confirmar Eliminación</string>
+    <string name="msg_delete_confirm">¿Está seguro de que desea eliminar el producto "%1$s"? Esta acción no se puede deshacer.</string>
+
+    <!-- Empty state -->
+    <string name="empty_products_title">No hay productos registrados</string>
+    <string name="empty_products_subtitle">Presiona el botón "+" para agregar tu primer artículo de tecnología.</string>
+    <string name="empty_search_title">Sin resultados</string>
+    <string name="empty_search_subtitle">No se encontraron productos con el término buscado.</string>
+
+    <!-- Validation Errors -->
+    <string name="error_required">Este campo es obligatorio.</string>
+    <string name="error_invalid_price">El precio debe ser un número mayor a cero.</string>
+    <string name="error_invalid_stock">El stock debe ser un número entero mayor a cero.</string>
+
+    <!-- Feedback messages -->
+    <string name="msg_product_added">Producto registrado con éxito.</string>
+    <string name="msg_product_updated">Producto actualizado con éxito.</string>
+    <string name="msg_product_deleted">Producto eliminado correctamente.</string>
+    <string name="msg_db_error">Ocurrió un error al procesar la base de datos.</string>
+</resources>
